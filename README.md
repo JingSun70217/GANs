@@ -16,7 +16,7 @@ These assignments cover the following topics:
  - Compare generative models;
  - Use FID method to assess GAN fidelity and diversity;
  - Detect bias in GAN;
- - Implement StyleGAN techniques.
+ - Implement StyleGA.
 
 # Getting Started
 
